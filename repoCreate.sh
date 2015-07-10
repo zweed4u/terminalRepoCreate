@@ -7,7 +7,7 @@ read Token
 echo -e '\n'
 
 
-echo Repo name?
+echo Repository name?
 read repo_Name
 echo -e '\n'
 
